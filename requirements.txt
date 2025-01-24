@@ -1,0 +1,4 @@
+black>=24.10.0
+selenium>=4.28.1
+webdriver-manager>=4.0.2
+fake-useragent>=2.0.3
